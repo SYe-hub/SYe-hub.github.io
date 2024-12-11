@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
