@@ -32,13 +32,25 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Selected Publications 
-<!-- paper TNNLS-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
+<!-- paper PR-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
+[FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung
+**S Ye**, Q.M. Peng, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<!-- paper CVIU-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/IMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/abstract/document/10147290)
+
+**S Ye**, S.J. Yu, W.J. Hou, Y. Wang and X.G. You
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -56,18 +68,18 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 </div>
 </div>
 
-<!-- paper CVIU-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/IMS.png' alt="sym" width="100%"></div></div>
+<!-- paper TNNLS-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/abstract/document/10147290)
+[Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, S.J. Yu, W.J. Hou, Y. Wang and X.G. You
-
+**S Ye**, Q.M. Peng, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
