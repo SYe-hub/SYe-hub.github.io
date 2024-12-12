@@ -19,7 +19,7 @@ redirect_from:
 
 I received my Ph.D. in 2024 from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST), supervised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a>
 
-My research interest covers computer vision and machine learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. In recent years, I primarily focused on fine-grained visual analysis and camouflaged object detection, with a commitment to applying them to challenging scenarios such as few-shot and open-set. 
+My research interests cover computer vision and machine learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. In recent years, I have primarily focused on fine-grained visual analysis and camouflaged object detection, with a commitment to applying them to challenging scenarios such as few-shot learning and open-set learning.
 My current goal is to explore the potential of diffusion models in perceiving, understanding, creating, and interacting with multimodal scenes.
 
 
@@ -69,13 +69,10 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
