@@ -32,6 +32,8 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Selected Publications 
+(* indicates equal contribution, # indicates correspondence)
+
 <!-- paper PR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,9 +84,11 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*, China International College Students' Innovation Competition (Hubei). Gold Award. 
+- *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
+- *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
 # Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
