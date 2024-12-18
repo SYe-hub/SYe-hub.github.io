@@ -46,11 +46,23 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 </div>
 </div>
 
+<!-- paper TETCI-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580)
+
+T.X. Wu, **S Ye**, S.H. Chen, Q.M. Peng and X.G. You
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <!-- paper CVIU-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/IMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/abstract/document/10147290)
+[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
 **S Ye**, S.J. Yu, W.J. Hou, Y. Wang and X.G. You
 
