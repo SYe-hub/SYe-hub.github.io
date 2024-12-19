@@ -28,8 +28,8 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 
 # News
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp; One paper on few-shot learning is accepted to ACM MM'24. 
+- *2024.04*: &nbsp; One paper on model compression is accepted to IEEE TNNLS. 
 
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
@@ -40,7 +40,7 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
+**S Ye**, Q.M. Peng*, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
