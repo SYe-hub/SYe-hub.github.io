@@ -29,7 +29,9 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 # News
 - *2024.07*: &nbsp; One paper on few-shot learning is accepted to ACM MM'24. 
+- *2024.06*: &nbsp; One paper on few-shot learning is accepted to IEEE TETCI. 
 - *2024.04*: &nbsp; One paper on model compression is accepted to IEEE TNNLS. 
+- *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to IVC.
 
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
@@ -58,13 +60,25 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 </div>
 </div>
 
+<!-- paper IVC-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/R2-Trans.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
+
+**S Ye**, S.J. Yu*, Y. Wang and X.G. You*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <!-- paper CVIU-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/IMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
-**S Ye**, S.J. Yu *, W.J. Hou, Y. Wang and X.G. You *
+**S Ye**, S.J. Yu*, W.J. Hou, Y. Wang and X.G. You*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
