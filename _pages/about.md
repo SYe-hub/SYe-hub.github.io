@@ -66,7 +66,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
 
-**S Ye**, S.J. Yu*, Y. Wang and X.G. You*
+**S Ye**, S.J. Yu *, Y. Wang and X.G. You *
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -78,7 +78,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
-**S Ye**, S.J. Yu*, W.J. Hou, Y. Wang and X.G. You*
+**S Ye**, S.J. Yu *, W.J. Hou, Y. Wang and X.G. You *
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
