@@ -28,6 +28,7 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 
 # News
+- *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
 - *2024.07*: &nbsp; One paper on few-shot learning is accepted to ACM MM'24. 
 - *2024.06*: &nbsp; One paper on few-shot learning is accepted to IEEE TETCI. 
 - *2024.04*: &nbsp; One paper on model compression is accepted to IEEE TNNLS. 
@@ -114,7 +115,9 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
+
+<!-- 
 # Invited Talks
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+-->
