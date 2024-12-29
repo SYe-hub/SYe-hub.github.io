@@ -117,7 +117,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 # Experience
 
-- *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. Research Intern
+- *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. *Research Intern*.
 Topic: Image Classification, Signal Verification.
 
 
