@@ -115,9 +115,9 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
+# Experience
 
-<!-- 
-# Invited Talks
+- *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. Research Intern
+Topic: Image Classification, Signal Verification.
 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
