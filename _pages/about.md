@@ -28,6 +28,7 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 
 # News
+- *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to Pattern Recognition.
 - *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to Neurocomputing.
 - *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
 - *2024.07*: &nbsp; One paper on few-shot learning is accepted to ACM MM'24. 
