@@ -43,7 +43,7 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
+[FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
 **S Ye**, Q.M. Peng*, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
 
