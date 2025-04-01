@@ -28,13 +28,13 @@ My current goal is to explore the potential of diffusion models in perceiving, u
 
 
 # News
-- *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to Pattern Recognition.
-- *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to Neurocomputing.
+- *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
+- *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
-- *2024.07*: &nbsp; One paper on few-shot learning is accepted to ACM MM'24. 
-- *2024.06*: &nbsp; One paper on few-shot learning is accepted to IEEE TETCI. 
-- *2024.04*: &nbsp; One paper on model compression is accepted to IEEE TNNLS. 
-- *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to IVC.
+- *2024.07*: &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
+- *2024.06*: &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
+- *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
+- *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to **IVC**.
 
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
@@ -116,6 +116,11 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 - *2024.12*, China International College Students' Innovation Competition (Hubei). Gold Award. 
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
+
+
+# Professional Services
+
+- *Journal Reviewer*: TNNLS, TETCI, ESWA, Neurocomputing, etc.
 
 # Experience
 
