@@ -113,7 +113,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 
 # Honors and Awards
-- *2024.12*, China International College Students' Innovation Competition (Hubei). Gold Award. 
+- *2024.12*, China International College Students' Innovation Competition (Hubei). **Gold Award**. 
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
