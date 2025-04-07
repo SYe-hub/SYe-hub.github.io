@@ -128,7 +128,7 @@ I have studied/interned/worked in the following affiliations.
 
 <p align="left">
 <img src="images/Experience-HUST.jpg" width="15%" />
-<img src="mages/Experience-Fiberhome.jpg" width="15%" />
+<img src="images/Experience-Fiberhome.jpg" width="15%" />
 </p>
 
 - *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. *Research Intern*.
