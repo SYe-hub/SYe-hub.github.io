@@ -131,7 +131,7 @@ I have studied/interned/worked in the following affiliations.
 <img src="images/Experience-Fiberhome.jpg" width="15%" />
 </p>
 
-- *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. *Research Intern*.
-Topic: Image Classification, Signal Verification.
+<!-- - *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. *Research Intern*.
+Topic: Image Classification, Signal Verification. -->
 
 
