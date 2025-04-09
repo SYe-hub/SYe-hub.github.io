@@ -19,10 +19,9 @@ redirect_from:
 
 I received my Ph.D. in 2024 from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST), supervised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a>
 
-My research interests cover computer vision and machine learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. In recent years, I have primarily focused on fine-grained visual analysis and camouflaged object detection, with a commitment to applying them to challenging scenarios such as few-shot learning and open-set learning.
+My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
+My research applies **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning.
 My current goal is to explore the potential of diffusion models in perceiving, understanding, creating, and interacting with multimodal scenes.
-
-
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
