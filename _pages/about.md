@@ -20,12 +20,15 @@ redirect_from:
 I received my Ph.D. in 2024 from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST), supervised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a>.
 
 
-<!-- Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Institute for Advanced Research, Great Bay University (in preparation), under the supervision of Prof.<a href="https://sites.google.com/view/zitongyu" title=""> Zitong Yu</a>. -->
+<!-- Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Great Bay University (in preparation), under the supervision of Prof.<a href="https://sites.google.com/view/zitongyu" title=""> Zitong Yu</a>. -->
 
 
 My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
-My research applies **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning.
-My current goal is to explore the potential of diffusion models in perceiving, understanding, creating, and interacting with multimodal scenes.
+
+My current goal is to leverage **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
+I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios.
+
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
