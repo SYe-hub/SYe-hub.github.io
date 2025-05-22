@@ -34,6 +34,8 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 
 # News
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+
 - *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
@@ -42,11 +44,14 @@ I seek to explore their potential in perception, understanding, generation, and 
 - *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
 - *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to **IVC**.
 
+</div>
+
+
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
 
 <!-- paper PR-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
