@@ -49,7 +49,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <!-- paper PR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1" style="margin-left: -150px;">>
+<div class='paper-box-text' markdown="1" style="margin-left: -75px;">>
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
