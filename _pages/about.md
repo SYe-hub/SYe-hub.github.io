@@ -32,8 +32,8 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<h2 >News</h2>
 
-# News
 - *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
@@ -42,7 +42,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 - *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
 - *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to **IVC**.
 
-# Selected Publications 
+<h2 >Selected Publications</h2>
 (* indicates equal contribution, # indicates correspondence)
 
 <!-- paper PR-->
@@ -117,18 +117,16 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 </div>
 </div>
 
-
-# Honors and Awards
+<h2 >Honors and Awards</h2>
 - *2024.12*, China International College Students' Innovation Competition (Hubei). **Gold Award**. 
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
-
-# Professional Services
+<h2 >Professional Services</h2>
 
 - *Journal Reviewer*: TNNLS, TETCI, ESWA, Neurocomputing, etc.
 
-# Experience
+<h2 >Experience</h2>
 
 I have studied/interned/worked in the following affiliations.
 
