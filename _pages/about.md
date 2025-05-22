@@ -42,8 +42,6 @@ I seek to explore their potential in perception, understanding, generation, and 
 - *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
 - *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to **IVC**.
 
-
-
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
 
