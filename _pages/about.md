@@ -47,6 +47,23 @@ I seek to explore their potential in perception, understanding, generation, and 
 # Selected Publications 
 (* indicates equal contribution, # indicates correspondence)
 
+<div class='paper-box'>
+  <!-- 左侧图片区域 -->
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PR 2025</div>
+      <img src='images/PR.png' alt="Pattern Recognition Cover">
+    </div>
+  </div>
+  
+  <!-- 右侧文字区域 -->
+  <div class='paper-box-text' markdown="1">
+    [**FN-Net: Adaptive Data Augmentation for Fine-Grained Categorization**](https://example.com)  
+    **Authors**: Your Name et al.  
+    **Abstract**: This paper proposes a novel adaptive data augmentation method...
+  </div>
+</div>
+
 <!-- paper PR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-left: -75px;">>
