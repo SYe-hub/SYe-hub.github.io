@@ -19,9 +19,10 @@ redirect_from:
 
 I received my Ph.D. in 2024 from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>.
 
+<!-- Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Great Bay Area, advised by Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. -->
 
-<!-- Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Great Bay University (in preparation), advised by Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. -->
 
+<!-- https://www.sigs.tsinghua.edu.cn/xst/main.htm -->
 
 My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
 
