@@ -132,7 +132,7 @@ I have studied/interned/worked in the following affiliations.
 <p align="left">
 <img src="images/Experience-HUST.jpg" width="15%" />
 <img src="images/Experience-Fiberhome.jpg" width="15%" />
-<img src="images/TS.png" width="15%" />
+<img src="images/TS.jpg" width="15%" />
 <img src="images/GBU.png" width="15%" />
 </p>
 
