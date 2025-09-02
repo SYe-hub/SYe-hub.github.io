@@ -39,10 +39,11 @@ I seek to explore their potential in perception, understanding, generation, and 
 - *2024.07*: &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
 - *2024.06*: &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
 - *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
-- *2024.04*: &nbsp; One paper on Information Bottleneck is accepted to **IVC**.
+- *2024.04*: &nbsp; One paper on information bottleneck is accepted to **IVC**.
 
 <h2 >Selected Publications</h2>
 (* indicates equal contribution, # indicates correspondence)
+
 
 <!-- paper PR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
@@ -50,7 +51,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Q.M. Peng*, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
+**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -62,7 +63,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580)
 
-T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
+T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -74,7 +75,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
 
-**S Ye**, S.J. Yu *, Y. Wang and X.G. You *
+**S Ye**, S.J. Yu #, Y. Wang and X.G. You #
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -86,7 +87,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
-**S Ye**, S.J. Yu *, W.J. Hou, Y. Wang and X.G. You *
+**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -98,7 +99,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
 
-**S Ye**, Y. Wang, Q.M. Peng*, X.G. You and CL.P. Chen
+**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -110,7 +111,7 @@ T.X. Wu, **S Ye***, S.H. Chen, Q.M. Peng * and X.G. You
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng*, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung
+**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
