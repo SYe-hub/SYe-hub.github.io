@@ -56,7 +56,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
+**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -104,7 +104,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
 
-**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
+**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>).  <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -116,7 +116,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
+**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>). <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
