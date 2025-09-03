@@ -21,12 +21,14 @@ redirect_from:
 I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
 Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>.
 
+</div>
+
 My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
 
 My goal is to leverage **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
 I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios.
 
-</div>
+
 
 
 
@@ -52,7 +54,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You
+**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -100,7 +102,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
 
-**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen
+**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -112,7 +114,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung
+**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
