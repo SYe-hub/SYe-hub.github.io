@@ -23,12 +23,14 @@ Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdo
 
 </div>
 
+<div style="text-align: justify;">
 My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
+</div>
 
-My goal is to leverage **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
+<div style="text-align: justify;">
+My goal is to leverage <strong>large vision-language models</strong> and <strong>diffusion-based generative models</strong> to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
 I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios.
-
-
+</div>
 
 
 
