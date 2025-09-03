@@ -26,7 +26,7 @@ My research interests cover Computer Vision, Image/Video Processing, and Machine
 My goal is to leverage **large vision-language models** and **diffusion-based generative models** to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
 I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios.
 
-
+</div>
 
 
 
