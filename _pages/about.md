@@ -51,7 +51,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 
 <!-- paper PR-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">>
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
@@ -63,7 +63,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 </div>
 
 <!-- paper TCSVT-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/paper/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
@@ -74,7 +74,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 </div>
 
 <!-- paper TNNLS-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/paper/DSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
@@ -85,7 +85,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 </div>
 
 <!-- paper TETCI-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/paper/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580)
@@ -97,7 +97,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 </div>
 
 <!-- paper IVC-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/R2-Trans.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/paper/R2-Trans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
@@ -109,7 +109,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 </div>
 
 <!-- paper CVIU-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/IMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/paper/IMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
