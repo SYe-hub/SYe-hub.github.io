@@ -90,7 +90,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528)
 
-Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen
+Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. <span style="color: gray;">（SCI, IF=7.6）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -102,7 +102,7 @@ Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen
 
 [Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580)
 
-T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
+T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gray;">（SCI, IF=5.3）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -114,7 +114,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
 
-**S Ye**, S.J. Yu #, Y. Wang and X.G. You #
+**S Ye**, S.J. Yu #, Y. Wang and X.G. You #. Image and Vision Computing. 2024, 143: 104923. <span style="color: gray;">（SCI, IF=4.7）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -126,7 +126,8 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
-**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding, 2023, 237: 103837.
+**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding, 2023, 237: 103837. <span style="color: gray;">（SCI, IF=4.5, CCF Rank-B）
+
 </div>
 </div>
 
@@ -139,7 +140,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 <h2 >Professional Services</h2>
 
-- *Journal Reviewer*: TIP, TNNLS, TETCI, ESWA, KBS, Neurocomputing, etc.
+- *Journal Reviewer*: TIP, TNNLS, TETCI, ESWA, KBS, NN, Neurocomputing, etc.
 
 <h2 >Experience</h2>
 
