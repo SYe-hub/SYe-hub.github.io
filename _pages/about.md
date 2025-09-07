@@ -62,6 +62,28 @@ I seek to explore their potential in perception, understanding, generation, and 
 </div>
 </div>
 
+<!-- paper TCSVT-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
+
+**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>). 2023, 34(1): 2-16.  <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
+
+</div>
+</div>
+
+<!-- paper TNNLS-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
+
+**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022. 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
+
+</div>
+</div>
+
 <!-- paper TETCI-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,35 +114,11 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You
 
 [Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
-**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #
-
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding, 2023, 237: 103837.
 </div>
 </div>
 
-<!-- paper TCSVT-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
-
-**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>).  <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
-
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-</div>
-</div>
-
-<!-- paper TNNLS-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/DSE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
-
-**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>). <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
-
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-</div>
-</div>
 
 <h2 >Honors and Awards</h2>
 - *2024.12*, China International College Students' Innovation Competition (Hubei). **Gold Award**. 
