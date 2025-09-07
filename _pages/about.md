@@ -56,7 +56,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
+**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). 2025, 165: 111618. <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -79,8 +79,20 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022. 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
+**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022, 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
 
+</div>
+</div>
+
+<!-- paper KBS-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/paper/VCE-KBS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528)
+
+Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
 </div>
 
