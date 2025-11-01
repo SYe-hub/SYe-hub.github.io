@@ -18,13 +18,12 @@ redirect_from:
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
-Currently, I am a postdoctoral researcher at the Tsinghua University SIGS Postdoctoral Research Station, conducting my research at the Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>.
 
+Currently, I am a postdoctoral researcher at Tsinghua University, conducting my research at Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
 </div>
 
 <div style="text-align: justify;">
-My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 10 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TNNLS, TCSVT, PR, and ACM MM. 
+My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 20 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TPAMI, TNNLS, TCSVT, PR, and ACM MM. 
 </div>
 
 <div style="text-align: justify;">
@@ -36,6 +35,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
+- *2025.10*: &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - *2025.08*: &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
 - *2025.07*: &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
 - *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
@@ -49,6 +49,17 @@ I seek to explore their potential in perception, understanding, generation, and 
 <h2 >Selected Publications</h2>
 (* indicates equal contribution, # indicates correspondence)
 
+<!-- paper TPAMI-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/paper/TPAMI-CDLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">>
+
+[Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
+
+**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, Z.T. Yu, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2025. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
 
 <!-- paper PR-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper/PR.png' alt="sym" width="100%"></div></div>
@@ -80,6 +91,18 @@ I seek to explore their potential in perception, understanding, generation, and 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
 **S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022, 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
+
+</div>
+</div>
+
+
+<!-- paper MIR-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2025</div><img src='images/paper/MIR-IKA2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://ieeexplore.ieee.org/document/9893744)
+
+**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: orange;">（SCI, IF=8.7）
 
 </div>
 </div>
@@ -140,7 +163,18 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gr
 
 <h2 >Professional Services</h2>
 
-- *Journal Reviewer*: TIP, TNNLS, TETCI, ESWA, KBS, NN, Neurocomputing, etc.
+- *Journal Reviewer*: 
+  - IEEE Transactions on Image Processing 
+  - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Circuits and Systems for Video Technology 
+  - IEEE Transactions on Emerging Topics in Computational Intelligence 
+  - Pattern Recognition
+  - Expert Systems with Applications
+  - Knowledge-Based Systems
+  - Neural Networks
+
+- *Membership*:
+  - IEEE/CCF/CSIG Member
 
 <h2 >Experience</h2>
 
