@@ -53,7 +53,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/paper/TPAMI-CDLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">>
 
-[Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
+[Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://arxiv.org/pdf/2306.02346)
 
 **S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, Z.T. Yu, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2025. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
 
