@@ -102,7 +102,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: orange;">（SCI, IF=8.7）
+**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: gray;">（SCI, IF=8.7）
 
 </div>
 </div>
