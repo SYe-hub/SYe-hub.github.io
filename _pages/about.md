@@ -35,16 +35,16 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
-- *2025.11*: &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
-- *2025.08*: &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
-- *2025.07*: &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
-- *2025.03*: &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
-- *2025.01*: &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
-- *2024.09*: &nbsp; Successfully completed a research project funded by the FRFCU.
-- *2024.07*: &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
-- *2024.06*: &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
-- *2024.04*: &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
-- *2024.04*: &nbsp; One paper on information bottleneck is accepted to **IVC**.
+- [2025.11] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
+- [2025.08] &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
+- [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
+- [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
+- [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
+- [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
+- [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
+- [2024.06] &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
+- [2024.04] &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
+- [2024.04] &nbsp; One paper on information bottleneck is accepted to **IVC**.
 
 <h2 >Selected Publications</h2>
 (* indicates equal contribution, # indicates correspondence)
@@ -175,6 +175,9 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gr
 
 - *Membership*:
   - IEEE/CCF/CSIG Member
+
+- *Session Chair*:
+  - CCBR'25.
 
 <h2 >Experience</h2>
 
