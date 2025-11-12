@@ -177,7 +177,7 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gr
   - IEEE/CCF/CSIG Member
 
 - *Session Chair*:
-  - CCBR'25.
+  - CCBR'25
 
 <h2 >Experience</h2>
 
