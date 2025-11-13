@@ -113,7 +113,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528)
 
-Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. <span style="color: gray;">（SCI, IF=7.6）
+Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>) <span style="color: gray;">（SCI, IF=7.6）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
