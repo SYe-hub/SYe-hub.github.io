@@ -110,7 +110,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 </div>
 
 <!-- paper TMM-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2025</div><img src='images/paper/TMM-CNIE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/paper/TMM-CNIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
