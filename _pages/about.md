@@ -35,6 +35,8 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
+- [2025.12] &nbsp; One paper on fine-grained visual categorization is accepted to **TMM**, congrating to Qiaoqi.
+- [2025.11] &nbsp; Two papers are accepted to **MIR**.
 - [2025.11] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - [2025.08] &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
 - [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
@@ -102,10 +104,22 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: gray;">（SCI, IF=8.7）
+**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: orange;">（SCI, IF=8.7）
 
 </div>
 </div>
+
+<!-- paper TMM-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2025</div><img src='images/paper/TMM-CNIE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
+
+Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7）
+
+</div>
+</div>
+
 
 <!-- paper KBS-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/paper/VCE-KBS.png' alt="sym" width="100%"></div></div>
