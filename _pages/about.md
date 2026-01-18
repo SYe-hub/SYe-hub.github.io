@@ -46,9 +46,30 @@ I seek to explore their potential in perception, understanding, generation, and 
 - [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
 - [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
+
+
+<a onclick="toggleList()" id='more'>Show more</a >
+<div id="hiddenList" style="display:none;">
+  {% capture hidden_list %}
 - [2024.06] &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
 - [2024.04] &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
 - [2024.04] &nbsp; One paper on information bottleneck is accepted to **IVC**.
+
+  {% endcapture %}
+  {{ hidden_list | markdownify }}
+</div>
+<a onclick="toggleList()" id='less' style='display:none;'>Show less</a >
+<script>
+function toggleList() {
+    var list = document.getElementById('hiddenList');
+    list.style.display = list.style.display === 'none' ? 'block' : 'none';
+    var button = document.getElementById('more');
+    button.style.display = button.style.display === 'none' ? 'block' : 'none';
+    var buttom_less = document.getElementById('less');
+    buttom_less.style.display = buttom_less.style.display === 'none' ? 'block' : 'none';
+}
+</script>
+
 
 <h2 >Selected Publications</h2>
 (* indicates equal contribution, # indicates correspondence)
