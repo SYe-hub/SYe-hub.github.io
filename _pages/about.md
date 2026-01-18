@@ -35,6 +35,8 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
+- [2026.01] We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop & Challenge on Subtle Visual Computing (SVC)</a>
+ @ CVPR 2026. Welcome to participate!
 - [2025.12] &nbsp; One paper on fine-grained visual categorization is accepted to **TMM**, congrating to Qiaoqi.
 - [2025.11] &nbsp; Two papers are accepted to **MIR**.
 - [2025.11] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
