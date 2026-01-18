@@ -35,7 +35,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
-- [2026.01] We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop & Challenge on Subtle Visual Computing (SVC)</a>
+- [2026.01] We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
  @ CVPR 2026. Welcome to participate!
 - [2025.12] &nbsp; One paper on fine-grained visual categorization is accepted to **TMM**, congrating to Qiaoqi.
 - [2025.11] &nbsp; Two papers are accepted to **MIR**.
@@ -117,7 +117,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 [CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7）
+Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7）
 
 </div>
 </div>
