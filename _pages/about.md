@@ -169,16 +169,16 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gr
 </div>
 
 <!-- paper IVC-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/paper/R2-Trans.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/paper/R2-Trans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
 
 **S Ye**, S.J. Yu #, Y. Wang and X.G. You #. Image and Vision Computing. 2024, 143: 104923. <span style="color: gray;">（SCI, IF=4.7）
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
-</div>
+</div> -->
+[2][R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X). **S Ye**, S.J. Yu #, Y. Wang and X.G. You #. Image and Vision Computing. 2024, 143: 104923. <span style="color: gray;">（SCI, IF=4.7）
 
 <!-- paper CVIU-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/paper/IMS.png' alt="sym" width="100%"></div></div>
