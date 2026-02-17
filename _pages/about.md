@@ -181,10 +181,10 @@ T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. <span style="color: gr
 </div>
 
 <!-- paper CVIU-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/paper/IMS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/paper/IMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
+[1][Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
 
 **S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding, 2023, 237: 103837. <span style="color: gray;">（SCI, IF=4.5, CCF Rank-B）
 
