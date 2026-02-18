@@ -35,7 +35,7 @@ I seek to explore their potential in perception, understanding, generation, and 
 
 <h2 >News</h2>
 
-- [2026.01] We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
+- [2026.01] &nbsp; We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
  @ CVPR 2026. Welcome to participate!
 - [2025.12] &nbsp; One paper on fine-grained visual categorization is accepted to **TMM**, congrating to Qiaoqi.
 - [2025.11] &nbsp; Two papers are accepted to **MIR**.
@@ -145,12 +145,10 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 
 
 <!-- paper KBS-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/paper/VCE-KBS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/paper/VCE-KBS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528)
-
-Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>) <span style="color: gray;">（SCI, IF=7.6）
+[4][VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528). Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>), <span style="color: gray;">（SCI, IF=7.6）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -160,7 +158,7 @@ Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/paper/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[3][Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580). T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>), 2025, vol. 9, no. 1, pp. 630-640. <span style="color: gray;">（SCI, IF=5.3）
+[3][Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580). T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. IEEE Trans. Emerg. Top. Comput. Intell. (<strong>TETCI</strong>), 2025, vol. 9, no. 1, pp. 630-640. <span style="color: gray;">（SCI, IF=5.3）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <!-- </div>
