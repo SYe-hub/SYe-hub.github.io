@@ -195,6 +195,10 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 - *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
 - *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
+<h2 >Organizing Scientific Activities</h2>
+
+  -  <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a> @ CVPR 2026
+
 <h2 >Professional Services</h2>
 
 - *Journal Reviewer*: 
@@ -209,6 +213,8 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 
 - *Membership*:
   - IEEE/CCF/CSIG Member
+  - CSIG生物特征识别专业委员会委员
+  - GDSIG情感计算专委会委员
 
 - *Session Chair*:
   - <a href="https://mp.weixin.qq.com/s/Ds_aUiUB9V3jdx2CTlTIYA" title=""> CCBR'25</a>. 
