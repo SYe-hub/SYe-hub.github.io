@@ -75,12 +75,12 @@ function toggleList() {
 (* indicates equal contribution, # indicates correspondence)
 
 <!-- paper TPAMI-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/paper/TPAMI-CDLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/paper/TPAMI-CDLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">>
 
 [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://arxiv.org/pdf/2306.02346)
 
-**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, Z.T. Yu, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2025. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
+**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2025. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -138,7 +138,7 @@ function toggleList() {
 
 [CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7）
+Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7， CCF Rank-A）
 
 </div>
 </div>
