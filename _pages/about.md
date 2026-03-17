@@ -80,7 +80,7 @@ function toggleList() {
 
 [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://arxiv.org/pdf/2306.02346)
 
-**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2025. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
+**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
