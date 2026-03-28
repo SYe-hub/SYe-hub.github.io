@@ -23,12 +23,10 @@ Currently, I am a postdoctoral researcher at Tsinghua University, conducting my 
 </div>
 
 <div style="text-align: justify;">
-My research interests cover Computer Vision, Image/Video Processing, and Machine Learning. I have published over 20 peer-reviewed papers, most of which appear in top-tier conferences and journals, such as TPAMI, TNNLS, TCSVT, PR, and ACM MM. 
-</div>
-
-<div style="text-align: justify;">
-My goal is to leverage <strong>large vision-language models</strong> and <strong>diffusion-based generative models</strong> to address complex tasks under challenging conditions such as few-shot learning and open-set learning. 
-I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios.
+<!-- My research interests cover Computer Vision, Image/Video Processing, and Machine Learning.  -->
+I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, TNNLS, TCSVT, TMM, PR, and ACM MM. 
+My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition.
+<!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
 </div>
 
 
@@ -78,7 +76,7 @@ function toggleList() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/paper/TPAMI-CDLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">>
 
-[Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://arxiv.org/pdf/2306.02346)
+[Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://ieeexplore.ieee.org/abstract/document/11440120)
 
 **S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
 
