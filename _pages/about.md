@@ -33,6 +33,7 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 
 <h2 >News</h2>
 
+- [2026.04] &nbsp; One paper on audio-visual learning is accepted by **ACL'26** (main), congrating to Jiayu.
 - [2026.03] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - [2026.01] &nbsp; We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
  @ CVPR 2026. Welcome to participate!
@@ -43,12 +44,12 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 - [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
-- [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
 
 
 <a onclick="toggleList()" id='more'>Show more</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+- [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
 - [2024.06] &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
 - [2024.04] &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
 - [2024.04] &nbsp; One paper on information bottleneck is accepted to **IVC**.
@@ -140,6 +141,9 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 
 </div>
 </div>
+
+
+<!-- [5][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification]. J.Y. Zhang, S Ye, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A） -->
 
 
 <!-- paper KBS-->
