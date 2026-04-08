@@ -124,7 +124,7 @@ function toggleList() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2025</div><img src='images/paper/MIR-IKA2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://ieeexplore.ieee.org/document/9893744)
+[IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://link.springer.com/article/10.1007/s11633-025-1618-5)
 
 **S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: orange;">（SCI, IF=8.7）
 
