@@ -143,7 +143,7 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 </div>
 
 
-[6][HRR: Hierarchical Retrospection Refinement for Generated Image Detection]. P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
+[6][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
 
 [5][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification](https://arxiv.org/abs/2604.10695). J.Y. Zhang *, **S Ye** *, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
