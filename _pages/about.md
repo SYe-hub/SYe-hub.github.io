@@ -135,7 +135,8 @@ function toggleList() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/paper/TMM-CNIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
+[CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/11489513)
+
 
 Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7， CCF Rank-A）
 
@@ -224,6 +225,8 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 - *Session Chair*:
   - <a href="https://mp.weixin.qq.com/s/Ds_aUiUB9V3jdx2CTlTIYA" title=""> CCBR'25</a>. 
 
+- *Panel*:
+  - <a href="https://mp.weixin.qq.com/s/X9GbIJ9q-mVJP0HcPY5gOA" title=""> CCIG'26</a>. 
 
 <h2 >Experience</h2>
 
