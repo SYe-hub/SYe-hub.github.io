@@ -32,7 +32,7 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 
 
 <h2 >News</h2>
-
+- [2026.07] &nbsp; Two papers are accepted by ECCV 2026, and one paper on audio-visual learning is accepted by **TCSVT'26**.
 - [2026.04] &nbsp; One paper on audio-visual learning is accepted by **ACL'26** (main), congrating to Jiayu.
 - [2026.03] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - [2026.01] &nbsp; We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
@@ -43,12 +43,12 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 - [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
 - [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
-- [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
 
 
 <a onclick="toggleList()" id='more'>Show more</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+- [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
 - [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
 - [2024.06] &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
 - [2024.04] &nbsp; One paper on model compression is accepted to **IEEE TNNLS**. 
@@ -79,7 +79,7 @@ function toggleList() {
 
 [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://ieeexplore.ieee.org/abstract/document/11440120)
 
-**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=18.6, CCF Rank-A）
+**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=20.396, CCF Rank-A）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -143,6 +143,7 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 </div>
 </div>
 
+[7][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering]. Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
 
 [6][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
