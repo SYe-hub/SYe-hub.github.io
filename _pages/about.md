@@ -44,12 +44,13 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 - [2025.08] &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
 - [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
 - [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
-- [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
+
 
 
 <a onclick="toggleList()" id='more'>Show more</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+- [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
 - [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
 - [2024.06] &nbsp; One paper on few-shot learning is accepted to **IEEE TETCI**. 
