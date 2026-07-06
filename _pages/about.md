@@ -32,7 +32,9 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 
 
 <h2 >News</h2>
-- [2026.07] &nbsp; Two papers are accepted by ECCV 2026, and one paper on audio-visual learning is accepted by **TCSVT'26**.
+
+- [2026.07] &nbsp; Awarded as <a href="https://mp.weixin.qq.com/s/yFI_aSeFASqC3xKK3wtZig?from=groupmessage&scene=1&subscene=10000&sessionid=1783299703&clicktime=1783308956&enterid=1783308956&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8329678-zh_CN-zip&fasttmpl_flag=0&realreporttime=1783308956938" title=""> 2026 GDSIG Natural Science Award First Prize </a> (广东省图象图形学会自然科学一等奖).
+- [2026.06] &nbsp; Two papers are accepted by **ECCV 2026**, and one paper on audio-visual learning is accepted by **TCSVT'26**.
 - [2026.04] &nbsp; One paper on audio-visual learning is accepted by **ACL'26** (main), congrating to Jiayu.
 - [2026.03] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - [2026.01] &nbsp; We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
@@ -198,9 +200,10 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 [1][Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175). **S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding (<strong>CVIU</strong>), 2023, 237: 103837. <span style="color: gray;">（SCI, IF=4.5, CCF Rank-B）
 
 <h2 >Honors and Awards</h2>
+- *2026.07*, Awarded as <a href="https://mp.weixin.qq.com/s/yFI_aSeFASqC3xKK3wtZig?from=groupmessage&scene=1&subscene=10000&sessionid=1783299703&clicktime=1783308956&enterid=1783308956&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8329678-zh_CN-zip&fasttmpl_flag=0&realreporttime=1783308956938" title=""> 2026 GDSIG Natural Science Award First Prize </a> (广东省图象图形学会自然科学一等奖).
 - *2024.12*, China International College Students' Innovation Competition (Hubei). **Gold Award**. 
-- *2021.10*,  iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
-- *2021.04*,  CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
+- *2021.10*, iFLYTEK A.I. Advertisement Image Material Classification Algorithm Challenge (9/739).
+- *2021.04*, CVPR Safe AI Challenger Program: White-box Adversarial Attacks on Defense Models (33/1681).
 
 <h2 >Organizing Scientific Activities</h2>
 
