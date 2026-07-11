@@ -33,8 +33,9 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 
 <h2 >News</h2>
 
+- [2026.07] &nbsp; One paper is accepted by **ACM MM 2026**, and one paper on emotion recognition is accepted by **TAFFC**.
 - [2026.07] &nbsp; Awarded as <a href="https://mp.weixin.qq.com/s/yFI_aSeFASqC3xKK3wtZig?from=groupmessage&scene=1&subscene=10000&sessionid=1783299703&clicktime=1783308956&enterid=1783308956&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8329678-zh_CN-zip&fasttmpl_flag=0&realreporttime=1783308956938" title=""> 2026 GDSIG Natural Science Award First Prize </a> (广东省图象图形学会自然科学一等奖).
-- [2026.06] &nbsp; Two papers are accepted by **ECCV 2026**, and one paper on audio-visual learning is accepted by **TCSVT'26**.
+- [2026.06] &nbsp; Two papers are accepted by **ECCV 2026**, and one paper on audio-visual learning is accepted by **TCSVT**.
 - [2026.04] &nbsp; One paper on audio-visual learning is accepted by **ACL'26** (main), congrating to Jiayu.
 - [2026.03] &nbsp; One paper on fine-grained visual categorization is accepted to **IEEE TPAMI**, thanks to all co-authors.
 - [2026.01] &nbsp; We organize the <a href="https://sites.google.com/view/svc-cvpr26" title=""> 2nd Workshop and Challenge on Subtle Visual Computing (SVC)</a>
@@ -43,13 +44,11 @@ My goal is to leverage <strong>large vision-language models</strong> to address 
 - [2025.11] &nbsp; Two papers are accepted to **MIR**.
 - [2025.08] &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
 - [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
-- [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
-
-
 
 <a onclick="toggleList()" id='more'>Show more</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+- [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
 - [2024.07] &nbsp; One paper on few-shot learning is accepted to **ACM MM'24**. 
@@ -83,6 +82,19 @@ function toggleList() {
 [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://ieeexplore.ieee.org/abstract/document/11440120)
 
 **S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=20.396, CCF Rank-A）
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
+
+
+<!-- paper TAFFC-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='images/paper/TAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">>
+
+[CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
+
+**S Ye**, Min Li, Xun Lin, Jiayu Zhang, Weicheng Xie, Dan Guo, Fei Ma, Shutao Xia, Zitong Yu#. IEEE Transactions on Affective Computing (<strong>TAFFC</strong>). 2026. <span style="color: orange;">（SCI, IF=11.297, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
