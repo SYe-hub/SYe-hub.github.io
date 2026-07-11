@@ -89,7 +89,7 @@ function toggleList() {
 
 
 <!-- paper TAFFC-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='images/paper/TAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='images/paper/TAC-CiMEU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">>
 
 [CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
