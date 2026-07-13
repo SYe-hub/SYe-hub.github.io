@@ -22,10 +22,12 @@ redirect_from:
 Currently, I am a postdoctoral researcher at Tsinghua University, conducting my research at Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
 </div>
 
+<!-- I am currently a postdoctoral researcher at Tsinghua University and a fellow of the Macao Young Scholars Program（国家级博士后项目）, conducting my research at Great Bay University and Macau University of Science and Technology, advised by Prof. Shutao Xia, Prof. Zitong Yu, and Prof. Yanyan Liang. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof. Xinge You. -->
+
 <div style="text-align: justify;">
 <!-- My research interests cover Computer Vision, Image/Video Processing, and Machine Learning.  -->
-I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, TNNLS, TCSVT, TMM, PR, and ACM MM. 
-My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition.
+I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. 
+<!-- My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition. -->
 <!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
 </div>
 
