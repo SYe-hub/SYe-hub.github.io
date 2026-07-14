@@ -31,8 +31,6 @@ I have published over 20 peer-reviewed papers, most of which appear in top-tier 
 <!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
 </div>
 
-
-
 <h2 >News</h2>
 
 - [2026.07] &nbsp; One paper is accepted by **ACM MM 2026**, and one paper on emotion recognition is accepted by **TAFFC**.
@@ -161,7 +159,10 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 </div>
 
 
-[8][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks]
+[9][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
+Bohan Deng *, Shuo Ye *, and Zitong Yu #. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
+
+[8][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
 Wenji Wu *, Shuo Ye *, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
 [7][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
