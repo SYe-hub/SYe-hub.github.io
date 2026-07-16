@@ -26,7 +26,7 @@ Currently, I am a postdoctoral researcher at Tsinghua University, conducting my 
 
 <div style="text-align: justify;">
 <!-- My research interests cover Computer Vision, Image/Video Processing, and Machine Learning.  -->
-I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. 
+I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. My research interests include computer vision and multimodal learning.
 <!-- My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition. -->
 <!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
 </div>
@@ -160,7 +160,7 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 
 
 [9][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
-Bohan Deng *, Shuo Ye *, and Zitong Yu #. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
+Bohan Deng, Shuo Ye #, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
 
 [8][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
 Wenji Wu *, Shuo Ye *, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
