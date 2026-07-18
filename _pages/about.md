@@ -24,7 +24,7 @@ I have published over 20 peer-reviewed papers, most of which appear in top-tier 
 <!-- I am currently a postdoctoral researcher at Tsinghua University and a fellow of the Macao Young Scholars Program（国家级博士后项目）, conducting my research at Great Bay University and Macau University of Science and Technology, advised by Prof. Shutao Xia, Prof. Zitong Yu, and Prof. Yanyan Liang. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof. Xinge You. -->
 
 <div style="text-align: justify; color: #FF6347;">
-I am recruiting Research Assistants (Excellent master student) and Remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
+I am recruiting Research Assistants (Excellent master's students) and Remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
 </div>
 
 
