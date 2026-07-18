@@ -17,8 +17,6 @@ redirect_from:
 
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
-
-
 Currently, I am a postdoctoral researcher at Tsinghua University, conducting my research at Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
 </div>
 
@@ -30,6 +28,11 @@ I have published over 20 peer-reviewed papers, most of which appear in top-tier 
 <!-- My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition. -->
 <!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
 </div>
+
+<div style="text-align: justify; color: #FF6347;">
+I am recruiting research assistants (outstanding master’s students) and remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
+</div>
+
 
 <h2 >News</h2>
 
@@ -134,18 +137,6 @@ function toggleList() {
 </div>
 </div>
 
-
-<!-- paper MIR-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2025</div><img src='images/paper/MIR-IKA2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://link.springer.com/article/10.1007/s11633-025-1618-5)
-
-**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>). <span style="color: orange;">（SCI, IF=8.7）
-
-</div>
-</div>
-
 <!-- paper TMM-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/paper/TMM-CNIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -158,24 +149,24 @@ Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Tr
 </div>
 </div>
 
+[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models]. Zihan Song*, Shuo Ye*, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu*. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
 
-[9][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
+[10][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
 Bohan Deng, Shuo Ye #, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
 
-[8][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
+[9][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
 Wenji Wu *, Shuo Ye *, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
-[7][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
+[8][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
 
-[6][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
-
-
-[5][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification](https://arxiv.org/abs/2604.10695). J.Y. Zhang *, **S Ye** *, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+[7][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
 
-<!-- paper KBS-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/paper/VCE-KBS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+[6][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification](https://arxiv.org/abs/2604.10695). J.Y. Zhang *, **S Ye** *, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+
+
+[5][IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://link.springer.com/article/10.1007/s11633-025-1618-5).
+**S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>), 2025 <span style="color: gray;">（SCI, IF=8.7）
 
 [4][VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528). Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>), 2025 <span style="color: gray;">（SCI, IF=7.6）
 
