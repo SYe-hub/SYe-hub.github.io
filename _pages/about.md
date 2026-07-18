@@ -18,19 +18,13 @@ redirect_from:
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
 Currently, I am a postdoctoral researcher at Tsinghua University, conducting my research at Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
+I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. My research interests include computer vision and multimodal learning.
 </div>
 
 <!-- I am currently a postdoctoral researcher at Tsinghua University and a fellow of the Macao Young Scholars Program（国家级博士后项目）, conducting my research at Great Bay University and Macau University of Science and Technology, advised by Prof. Shutao Xia, Prof. Zitong Yu, and Prof. Yanyan Liang. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof. Xinge You. -->
 
-<div style="text-align: justify;">
-<!-- My research interests cover Computer Vision, Image/Video Processing, and Machine Learning.  -->
-I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. My research interests include computer vision and multimodal learning.
-<!-- My goal is to leverage <strong>large vision-language models</strong> to address challenging problems in subtle visual computing, such as few-shot learning and open-set recognition. -->
-<!-- I seek to explore their potential in perception, understanding, generation, and interaction within multimodal scenarios. -->
-</div>
-
 <div style="text-align: justify; color: #FF6347;">
-I am recruiting research assistants (outstanding master’s students) and remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
+I am recruiting Research Assistants (Excellent master student) and Remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
 </div>
 
 
@@ -97,7 +91,7 @@ function toggleList() {
 
 [CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Min Li, Xun Lin, Jiayu Zhang, Weicheng Xie, Dan Guo, Fei Ma, Shutao Xia, Zitong Yu#. IEEE Transactions on Affective Computing (<strong>TAFFC</strong>). 2026. <span style="color: orange;">（SCI, IF=11.297, CCF Rank-B）
+**Shuo Ye**, Min Li, Xun Lin, Jiayu Zhang, Weicheng Xie, Dan Guo, Fei Ma, Shutao Xia, Zitong Yu#. IEEE Transactions on Affective Computing (<strong>TAFFC</strong>). 2026. <span style="color: orange;">（SCI, IF=11.297, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -109,7 +103,7 @@ function toggleList() {
 
 [FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
 
-**S Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). 2025, 165: 111618. <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
+**Shuo Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). 2025, 165: 111618. <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -121,7 +115,7 @@ function toggleList() {
 
 [The Image Data and Backbone in Weakly Supervised Fine-Grained Visual Categorization: A Revisit and Further Thinking](https://ieeexplore.ieee.org/abstract/document/10147290)
 
-**S Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>). 2023, 34(1): 2-16.  <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
+**Shuo Ye**, Y. Wang, Q.M. Peng #, X.G. You and CL.P. Chen. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>). 2023, 34(1): 2-16.  <span style="color: orange;">（SCI, IF=8.4, CCF Rank-B）
 
 </div>
 </div>
@@ -132,7 +126,7 @@ function toggleList() {
 
 [Discriminative Suprasphere Embedding for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/9893744)
 
-**S Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022, 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
+**Shuo Ye**, Q.M. Peng #, W.J. Sun, J.M. Xu, Y. Wang, X.G. You and Y.M. Cheung. IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).2022, 35(4): 5092-5102. <span style="color: orange;">（SCI, IF=14.3, CCF Rank-B）
 
 </div>
 </div>
@@ -144,18 +138,19 @@ function toggleList() {
 [CNIE: Content-Aware Non-Transferable Information Extraction for Fine-Grained Visual Categorization](https://ieeexplore.ieee.org/document/11489513)
 
 
-Q.Q Li, **S Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7， CCF Rank-A）
+Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE Transactions on Multimedia (<strong>TMM</strong>). <span style="color: gray;">（SCI, IF=9.7， CCF Rank-A）
 
 </div>
 </div>
 
-[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models]. Zihan Song*, Shuo Ye*, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu*. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+
+[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models]. Zihan Song\*, **Shuo Ye\***, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu*. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
 
 [10][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
-Bohan Deng, Shuo Ye #, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
+Bohan Deng, **Shuo Ye #**, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
 
 [9][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
-Wenji Wu *, Shuo Ye *, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
+Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
 [8][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
 
@@ -170,15 +165,7 @@ Wenji Wu *, Shuo Ye *, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Patte
 
 [4][VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528). Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>), 2025 <span style="color: gray;">（SCI, IF=7.6）
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-<!-- </div>
-</div> -->
-
-<!-- paper TETCI-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/paper/TETCI-DRDM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-[3][Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580). T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. IEEE Trans. Emerg. Top. Comput. Intell. (<strong>TETCI</strong>), 2025, vol. 9, no. 1, pp. 630-640. <span style="color: gray;">（SCI, IF=5.3）
+[3][Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580). T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>), 2025, vol. 9, no. 1, pp. 630-640. <span style="color: gray;">（SCI, IF=5.3）
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <!-- </div>
