@@ -78,7 +78,7 @@ function toggleList() {
 
 [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization: Benchmark and Method](https://ieeexplore.ieee.org/abstract/document/11440120)
 
-**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=20.396, CCF Rank-A）
+**S Ye**, S.M. Chen#, R.X. Wang, T.X. Wu, S. Khan, F.S. Khan and S. Ling. IEEE Transactions on Pattern Analysis and Machine Intelligence. (<strong>TPAMI</strong>). 2026. <span style="color: orange;">（SCI, IF=20.396, CCF Rank-A）<a href="https://github.com/SYe-hub/CDLT" style="color: green;">[Dataset]</a>
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
@@ -144,13 +144,19 @@ Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE
 </div>
 
 
-[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models]. Zihan Song\*, **Shuo Ye\***, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu*. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+
+
+[13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕\***, 郝超\*, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
+
+[12][YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]. Yiyu Liu\*, **Shuo Ye\***, Chao Hao, Zitong Yu #. Visual Intelligence (<strong>VI</strong>), 2026. <a href="https://github.com/K1NSA/YUV20K" style="color: green;">[Dataset]</a>
+
+[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models](https://arxiv.org/abs/2607.22726). Zihan Song\*, **Shuo Ye\***, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu #. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
 
 [10][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
 Bohan Deng, **Shuo Ye #**, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
 
 [9][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
-Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
+Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）<a href="https://github.com/Wuwenji18/GBU-UCOD" style="color: green;">[Dataset]</a>
 
 [8][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
 
