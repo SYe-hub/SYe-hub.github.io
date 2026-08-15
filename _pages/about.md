@@ -146,7 +146,7 @@ Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE
 
 
 
-[13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕\***, 郝超\*, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
+[13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕**, 郝超, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
 
 [12][YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]. Yiyu Liu\*, **Shuo Ye\***, Chao Hao, Zitong Yu #. Visual Intelligence (<strong>VI</strong>), 2026. <a href="https://github.com/K1NSA/YUV20K" style="color: green;">[Dataset]</a>
 
