@@ -32,7 +32,7 @@ I am recruiting Research Assistants (Excellent master's students) and Remote col
 <a onclick="toggleList()" id='more'>中文简介</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
-叶硕，大湾区大学助理研究员，清华大学在站博士后，华中科技大学工学博士，CSIG生物特征识别专委会委员，CCF东莞委员，GDSIG情感计算专委会委员。主要从事微视觉计算方面研究，迄今以第一/通信作者在 IEEE TPAMI、TMM、TNNLS、TCSVT等国际期刊发表论文二十余篇。共同组织CVPR 2026微视觉计算Workshop；参与主编“十四五”国家重点出版丛书：图像图形智能处理理论与技术前沿系列丛书《视觉计算：微视觉计算场景与应用》；获广东省图象图形学会自然科学一等奖(序2)；曾获2024年中国国际大学生创新大赛国赛二等奖，主持中央高校基本科研业务费项目1项。
+叶硕，大湾区大学助理研究员，清华大学在站博士后，华中科技大学工学博士。主要从事微视觉计算方面研究，迄今以第一/通信作者在 IEEE TPAMI、TMM、TNNLS、TCSVT等国际期刊发表论文二十余篇。共同组织CVPR 2026微视觉计算Workshop；参与主编“十四五”国家重点出版丛书：图像图形智能处理理论与技术前沿系列丛书《视觉计算：微视觉计算场景与应用》；获广东省图象图形学会自然科学一等奖(序2)；曾获2024年中国国际大学生创新大赛国赛二等奖，主持中央高校基本科研业务费项目1项。CSIG生物特征识别专委会委员，CCF东莞委员，GDSIG情感计算专委会委员。
 
   {% endcapture %}
   {{ hidden_list | markdownify }}
