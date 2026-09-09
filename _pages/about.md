@@ -17,11 +17,11 @@ redirect_from:
 
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
-Currently, I am a postdoctoral researcher at Tsinghua University, conducting my research at Great Bay University, advised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a> and Prof.<a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof.<a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>. 
+I am currently a postdoctoral researcher at Tsinghua University and a fellow of the <a href="https://mp.weixin.qq.com/s/Vg4eWDBCEsrOcErfIuMkIw" title=""> Macao Young Scholars Program </a> （国家级博士后项目）, conducting my research at Great Bay University and Macau University of Science and Technology, advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/xst/main.htm" title=""> Shutao Xia</a>, Prof. <a href="https://zitong-yu.github.io/yzt/" title=""> Zitong Yu</a>, and Prof. <a href="https://www.must.edu.mo/cn/sgs/1038-academic/fi/stall-intro/12020-liang-yanyan" title=""> Yanyan Liang</a>. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof. <a href="http://bmal.hust.edu.cn/info/1005/1091.htm" title=""> Xinge You</a> and worked closely Prof. <a href="https://www.comp.hkbu.edu.hk/~ymc/" title=""> Yiu-ming Cheung</a>.
 I have published over 20 peer-reviewed papers, most of which appear in top-tier journals and conferences, such as TPAMI, IJCV, and ACL, ACM MM. My research interests include computer vision and multimodal learning.
 </div>
 
-<!-- I am currently a postdoctoral researcher at Tsinghua University and a fellow of the Macao Young Scholars Program（国家级博士后项目）, conducting my research at Great Bay University and Macau University of Science and Technology, advised by Prof. Shutao Xia, Prof. Zitong Yu, and Prof. Yanyan Liang. I received my Ph.D. in 2024 from Huazhong University of Science and Technology (HUST), advised by Prof. Xinge You. -->
+<!--  -->
 
 <div style="text-align: justify; color: #FF6347;">
 I am recruiting Research Assistants (Excellent master's students) and Remote collaborators to work together on interesting research. For prospective collaborators, please email me your CV and research plan.
@@ -29,23 +29,44 @@ I am recruiting Research Assistants (Excellent master's students) and Remote col
 
 
 
-<a onclick="toggleList()" id='more'>中文简介</a >
+<a onclick="toggleList()" id="more">中文简介</a>
+
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
 叶硕，大湾区大学助理研究员，清华大学在站博士后，华中科技大学工学博士。主要从事微视觉计算方面研究，迄今以第一/通信作者在 IEEE TPAMI、TMM、TNNLS、TCSVT等国际期刊发表论文二十余篇。共同组织CVPR 2026微视觉计算Workshop；参与主编“十四五”国家重点出版丛书：图像图形智能处理理论与技术前沿系列丛书《视觉计算：微视觉计算场景与应用》；获广东省图象图形学会自然科学一等奖(序2)；曾获2024年中国国际大学生创新大赛国赛二等奖，主持中央高校基本科研业务费项目1项。CSIG生物特征识别专委会委员，CCF东莞委员，GDSIG情感计算专委会委员。
-
   {% endcapture %}
   {{ hidden_list | markdownify }}
 </div>
-<a onclick="toggleList()" id='less' style='display:none;'>English Personal Profile</a >
+
+<a onclick="toggleList()" id="less" style="display:none;">
+  English Personal Profile
+</a>
+
+<style>
+#hiddenList {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    line-height: 1.8;
+}
+
+#hiddenList p {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+</style>
+
 <script>
 function toggleList() {
     var list = document.getElementById('hiddenList');
     list.style.display = list.style.display === 'none' ? 'block' : 'none';
+
     var button = document.getElementById('more');
     button.style.display = button.style.display === 'none' ? 'block' : 'none';
-    var buttom_less = document.getElementById('less');
-    buttom_less.style.display = buttom_less.style.display === 'none' ? 'block' : 'none';
+
+    var buttonLess = document.getElementById('less');
+    buttonLess.style.display = buttonLess.style.display === 'none' ? 'block' : 'none';
 }
 </script>
 
