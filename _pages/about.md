@@ -33,7 +33,7 @@ I am recruiting Research Assistants (Excellent master's students) and Remote col
 
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
-叶硕，大湾区大学助理研究员，清华大学在站博士后，华中科技大学工学博士。主要从事微视觉计算方面研究，迄今以第一/通信作者在 IEEE TPAMI、TMM、TNNLS、TCSVT等国际期刊发表论文二十余篇。共同组织CVPR 2026微视觉计算Workshop；参与主编“十四五”国家重点出版丛书：图像图形智能处理理论与技术前沿系列丛书《视觉计算：微视觉计算场景与应用》；获广东省图象图形学会自然科学一等奖(序2)；曾获2024年中国国际大学生创新大赛国赛二等奖，主持中央高校基本科研业务费项目1项。CSIG生物特征识别专委会委员，CCF东莞委员，GDSIG情感计算专委会委员。
+叶硕，大湾区大学助理研究员、清华大学在站博士后，澳门青年学者，华中科技大学工学博士。主要从事微视觉计算方面研究，迄今以第一/通信作者在 IEEE TPAMI、TMM、TNNLS、TCSVT等国际期刊发表论文二十余篇。共同组织CVPR 2026微视觉计算Workshop；参与主编“十四五”国家重点出版丛书：图像图形智能处理理论与技术前沿系列丛书《视觉计算：微视觉计算场景与应用》；获广东省图象图形学会自然科学一等奖(序2)；曾获2024年中国国际大学生创新大赛国赛二等奖，主持中央高校基本科研业务费项目1项。CSIG生物特征识别专委会委员，CCF东莞委员，GDSIG情感计算专委会委员。
   {% endcapture %}
   {{ hidden_list | markdownify }}
 </div>
@@ -72,8 +72,14 @@ function toggleList() {
 
 
 
+
+
+
+
+
 <h2 >News</h2>
 
+- [2026.09] &nbsp; Honored to be selected for the <a href="https://mp.weixin.qq.com/s/0l3wTEhIAVgoH534s9IdaA" title=""> **Macao Young Scholars Program** </a>. Grateful for everyone's support.
 - [2026.07] &nbsp; One paper is accepted by **ACM MM 2026**, and one paper on emotion recognition is accepted by **TAFFC**.
 - [2026.07] &nbsp; Awarded as <a href="https://mp.weixin.qq.com/s/yFI_aSeFASqC3xKK3wtZig?from=groupmessage&scene=1&subscene=10000&sessionid=1783299703&clicktime=1783308956&enterid=1783308956&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8329678-zh_CN-zip&fasttmpl_flag=0&realreporttime=1783308956938" title=""> 2026 GDSIG Natural Science Award First Prize </a> (广东省图象图形学会自然科学一等奖).
 - [2026.06] &nbsp; Two papers are accepted by **ECCV 2026**, and one paper on audio-visual learning is accepted by **TCSVT**.
@@ -84,11 +90,12 @@ function toggleList() {
 - [2025.12] &nbsp; One paper on fine-grained visual categorization is accepted to **TMM**, congrating to Qiaoqi.
 - [2025.11] &nbsp; Two papers are accepted to **MIR**.
 - [2025.08] &nbsp; One paper on fine-grained image retrieval is accepted to **KBS**, congrating to Yuetian.
-- [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
+
 
 <a onclick="toggleList()" id='more'>Show more</a >
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+- [2025.07] &nbsp; One paper on image retrieval is accepted to **IEEE TNNLS**.
 - [2025.03] &nbsp; One paper on fine-grained visual categorization is accepted to **Pattern Recognition**.
 - [2025.01] &nbsp; One paper on fine-grained image retrieval is accepted to **Neurocomputing**.
 - [2024.09] &nbsp; Successfully completed a research project funded by the FRFCU.
