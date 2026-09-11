@@ -196,7 +196,7 @@ Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE
 
 
 
-[14][SeRoNet: Semantic-Aware Channel Routing for UAV Visible-Infrared Object Detection]. Tang Ying\*, **Shuo Ye\***, Zitong Yu #. IEEE Transactions on Geoscience and Remote Sensing, 2026 <span style="color: gray;">（SCI, IF=9.398, CCF Rank-B）
+[14][SeRoNet: Semantic-Aware Channel Routing for UAV Visible-Infrared Object Detection]. Tang Ying\*, **Shuo Ye\***, Zitong Yu #. IEEE Transactions on Geoscience and Remote Sensing (<strong>TGRS</strong>), 2026 <span style="color: gray;">（SCI, IF=9.398, CCF Rank-B）
 
 [13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕**, 郝超, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
 
