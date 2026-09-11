@@ -79,7 +79,7 @@ function toggleList() {
 
 <h2 >News</h2>
 
-- [2026.09] &nbsp; Honored to be selected for the <a href="https://mp.weixin.qq.com/s/0l3wTEhIAVgoH534s9IdaA" title=""> **Macao Young Scholars Program** </a>. Grateful for everyone's support.
+- [2026.09] &nbsp; Honored to be selected for the <a href="https://mp.weixin.qq.com/s/hGhJaAWGMeGWXB6UqrhBwA" title=""> **Macao Young Scholars Program** </a>. Grateful for everyone's support.
 - [2026.07] &nbsp; One paper is accepted by **ACM MM 2026**, and one paper on emotion recognition is accepted by **TAFFC**.
 - [2026.07] &nbsp; Awarded as <a href="https://mp.weixin.qq.com/s/yFI_aSeFASqC3xKK3wtZig?from=groupmessage&scene=1&subscene=10000&sessionid=1783299703&clicktime=1783308956&enterid=1783308956&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8329678-zh_CN-zip&fasttmpl_flag=0&realreporttime=1783308956938" title=""> 2026 GDSIG Natural Science Award First Prize </a> (广东省图象图形学会自然科学一等奖).
 - [2026.06] &nbsp; Two papers are accepted by **ECCV 2026**, and one paper on audio-visual learning is accepted by **TCSVT**.
@@ -196,6 +196,7 @@ Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE
 
 
 
+[14][SeRoNet: Semantic-Aware Channel Routing for UAV Visible-Infrared Object Detection]. Tang Ying\*, **Shuo Ye\***, Zitong Yu #. IEEE Transactions on Geoscience and Remote Sensing, 2026 <span style="color: gray;">（SCI, IF=9.398, CCF Rank-B）
 
 [13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕**, 郝超, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
 
@@ -224,33 +225,7 @@ Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. P
 
 [3][Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions](https://ieeexplore.ieee.org/document/10564580). T.X. Wu, **S Ye** #, S.H. Chen, Q.M. Peng # and X.G. You. IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>), 2025, vol. 9, no. 1, pp. 630-640. <span style="color: gray;">（SCI, IF=5.3）
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-<!-- </div>
-</div> -->
-
- 
-<!-- paper IVC-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2024</div><img src='images/paper/R2-Trans.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X)
-
-**S Ye**, S.J. Yu #, Y. Wang and X.G. You #. Image and Vision Computing. 2024, 143: 104923. <span style="color: gray;">（SCI, IF=4.7）
-
-</div>
-</div> -->
 [2][R2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://www.sciencedirect.com/science/article/abs/pii/S026288562400026X). **S Ye**, S.J. Yu #, Y. Wang and X.G. You #. Image and Vision Computing (<strong>IVC</strong>), 2024, 143: 104923. <span style="color: gray;">（SCI, IF=4.7）
-
-<!-- paper CVIU-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/paper/IMS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175)
-
-**S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding, 2023, 237: 103837. <span style="color: gray;">（SCI, IF=4.5, CCF Rank-B）
-
-</div>
-</div> -->
 
 [1][Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002175). **S Ye**, S.J. Yu #, W.J. Hou, Y. Wang and X.G. You #. Computer Vision and Image Understanding (<strong>CVIU</strong>), 2023, 237: 103837. <span style="color: gray;">（SCI, IF=4.5, CCF Rank-B）
 
