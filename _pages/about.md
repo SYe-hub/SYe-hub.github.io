@@ -252,7 +252,7 @@ Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. P
   - Neural Networks
 
 - *Membership*:
-  - IEEE/CCF/CSIG Member
+  - IEEE/CCF/CSIG/CIE Member
   - CSIG生物特征识别专业委员会委员
   - GDSIG情感计算专委会委员
 
@@ -261,6 +261,9 @@ Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. P
 
 - *Panel*:
   - <a href="https://mp.weixin.qq.com/s/X9GbIJ9q-mVJP0HcPY5gOA" title=""> CCIG'26</a>. 
+
+- *Invited talks*:
+  - <a href="https://mp.weixin.qq.com/s/AaFoeDwgfXGMCCGOPMh5LA?from=groupmessage&scene=1&subscene=10000&sessionid=1792025561&clicktime=1792035863&enterid=1792035863&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8477837-zh_CN-zip&fasttmpl_flag=0&realreporttime=1792035863042" title=""> Visual Intelligence国际博士后（博士）学术前沿研讨会'10.17.2026</a>.
 
 <h2 >Experience</h2>
 
@@ -271,6 +274,7 @@ I have studied/interned/worked in the following affiliations.
 <img src="images/Experience-Fiberhome.jpg" width="15%" />
 <img src="images/TS.jpg" width="15%" />
 <img src="images/GBU.png" width="15%" />
+<img src="images/MUST.png" width="15%" />
 </p>
 
 <!-- - *2020.3 – 2020.9*, Fortsense, In-Screen Fingerprint Group. *Research Intern*.
