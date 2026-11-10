@@ -72,11 +72,6 @@ function toggleList() {
 
 
 
-
-
-
-
-
 <h2 >News</h2>
 
 - [2026.09] &nbsp; Honored to be selected for the <a href="https://mp.weixin.qq.com/s/hGhJaAWGMeGWXB6UqrhBwA" title=""> **Macao Young Scholars Program** </a>. Grateful for everyone's support.
@@ -148,18 +143,6 @@ function toggleList() {
 </div>
 </div>
 
-<!-- paper PR-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper/PR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">>
-
-[FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub)
-
-**Shuo Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>). 2025, 165: 111618. <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
-
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-</div>
-</div>
-
 <!-- paper TCSVT-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/paper/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -195,31 +178,34 @@ Q.Q Li, **Shuo Ye** #, Y.F. Diao, D. Guo, Y.T. Wei, S.T. Xia and Z.T. Yu #. IEEE
 </div>
 
 
+ 
+[15][SeRoNet: Semantic-Aware Channel Routing for UAV Visible-Infrared Object Detection](https://ieeexplore.ieee.org/document/11693056). Tang Ying\*, **Shuo Ye\***, Zitong Yu #. IEEE Transactions on Geoscience and Remote Sensing (<strong>TGRS</strong>), 2026 <span style="color: gray;">（SCI, IF=9.398, CCF Rank-B）
 
-[14][SeRoNet: Semantic-Aware Channel Routing for UAV Visible-Infrared Object Detection](https://ieeexplore.ieee.org/document/11693056). Tang Ying\*, **Shuo Ye\***, Zitong Yu #. IEEE Transactions on Geoscience and Remote Sensing (<strong>TGRS</strong>), 2026 <span style="color: gray;">（SCI, IF=9.398, CCF Rank-B）
+[14][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕**, 郝超, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026
 
-[13][面向少样本训练的轻量级军事伪装目标分割方法与数据集]. **叶硕**, 郝超, 余梓彤 #，尧思远，操晓春. 中国图象图形学报, 2026.
+[13][YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection](https://rdcu.be/ECS1qWDSR1aa). Yiyu Liu\*, **Shuo Ye\***, Chao Hao, Zitong Yu #. Visual Intelligence (<strong>VI</strong>), 2026 <a href="https://github.com/K1NSA/YUV20K" style="color: green;">[Dataset]</a>
 
-[12][YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]. Yiyu Liu\*, **Shuo Ye\***, Chao Hao, Zitong Yu #. Visual Intelligence (<strong>VI</strong>), 2026. <a href="https://github.com/K1NSA/YUV20K" style="color: green;">[Dataset]</a>
+[12][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models](https://arxiv.org/abs/2607.22726). Zihan Song\*, **Shuo Ye\***, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu #. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
 
-[11][PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models](https://arxiv.org/abs/2607.22726). Zihan Song\*, **Shuo Ye\***, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu #. ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
-
-[10][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
+[11][Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark]. 
 Bohan Deng, **Shuo Ye #**, and Zitong Yu. Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2026 <span style="color: gray;">（CCF Rank-C）
 
-[9][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
+[10][High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks](https://authors.elsevier.com/c/1nQmmcAmz32BQ).
 Wenji Wu *, **Shuo Ye\***, Yiyu Liu, Jiguang He, Zhuo Wang #, and Zitong Yu #. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）<a href="https://github.com/Wuwenji18/GBU-UCOD" style="color: green;">[Dataset]</a>
 
-[8][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
+[9][Av-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering](https://ieeexplore.ieee.org/document/11598911). Jiayu Zhang *, **S Ye** *, Qilang Ye, Xun Lin, Zihan Song, Zitong Yu #. IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2026 <span style="color: gray;">（SCI, IF=10.79）
 
-[7][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
-
-
-[6][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification](https://arxiv.org/abs/2604.10695). J.Y. Zhang *, **S Ye** *, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+[8][HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865526001376). P.P Yuan, Z.J. Xie, **S Ye** #; Y.F Tao; X.C Wu; Y.L. Wang. Pattern Recognition Letters (<strong>PRL</strong>), 2026 <span style="color: gray;">（SCI, IF=3.3）
 
 
-[5][IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://link.springer.com/article/10.1007/s11633-025-1618-5).
+[7][Retrieving to Recover: Towards IncompleteAudio-Visual Question Answering via Semantic-consistent Purification](https://arxiv.org/abs/2604.10695). J.Y. Zhang *, **S Ye** *, Q.L. Ye. Z.H Song, J.J. Huang, Z.T. YU. Annual Meeting of the Association for Computational Linguistics  (<strong>ACL</strong>), 2026 <span style="color: gray;">（CCF Rank-A）
+
+
+[6][IKA2: Internal Knowledge Adaptive Activation for Robust Recognition in Complex Scenarios](https://link.springer.com/article/10.1007/s11633-025-1618-5).
 **S Ye\***, L.X. Chen\*, Q.Q Li, J.Y. Zhang, C.M. Chen and S.T. Xia. Machine Intelligence Research (<strong>MIR</strong>), 2025 <span style="color: gray;">（SCI, IF=8.7）
+
+[5][FN-Net: Adaptive Data Augmentation Network for Fine-Grained Visual Categorization](https://www.sciencedirect.com/science/article/abs/pii/S003132032500278X?via%3Dihub).
+**Shuo Ye**, Q.M. Peng#, Y.M. Cheung, Y. Wang, Z.Z. Q and X.G. You. Pattern Recognition (<strong>PR</strong>), 2025, 165: 111618. <span style="color: orange;">（SCI, IF=7.5, CCF Rank-B）
 
 [4][VCE: Visual Concept Embedding for Open-set Fine-Grained Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013528). Y.T. Wang, **S Ye** #, W.J. Hou, S.H. Chen. Knowledge-Based Systems (<strong>KBS</strong>), 2025 <span style="color: gray;">（SCI, IF=7.6）
 
